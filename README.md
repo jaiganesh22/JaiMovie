@@ -1,4 +1,4 @@
 # JaiMovie
-Movie Streaming Website.
+Fully Responsive movie streaming site with html, css, javascript.
  Working on Backend.
 
